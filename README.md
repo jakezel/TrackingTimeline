@@ -19,7 +19,7 @@ This project is a simple Node.js application that fetches and displays package t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/TrackingTimeline.git
+git clone https://github.com/jakezel/TrackingTimeline.git
 ```
 
 2.Navigate into the project directory:
